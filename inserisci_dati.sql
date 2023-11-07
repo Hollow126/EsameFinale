@@ -1,0 +1,10 @@
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('tiziano','gessa','tizigesgmail.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('simone','rizzo','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
+INSERT INTO Studenti (first_name,last_name,email) VALUES ('greta','difabio','aa.com');
